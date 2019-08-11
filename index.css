@@ -10,7 +10,7 @@ body {
 
 #top {
     grid-column: 2 / 3;
-    background: #111111;
+    background: #333333;
     background: linear-gradient(0deg, #444444 0%, #333333 50%);
     box-shadow: -2px -8px 10px -1px;
 }
